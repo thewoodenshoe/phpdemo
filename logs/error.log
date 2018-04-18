@@ -1,0 +1,30 @@
+[Fri Dec 15 14:56:10.274478 2017] [:error] [pid 725] [client 153.9.6.129:58875] script '/srv/www/help.cofc.edu/public_html/index-old.php' not found or unable to stat
+[Sat Dec 23 16:15:40.942115 2017] [ssl:error] [pid 12610] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:41.641852 2017] [ssl:error] [pid 10763] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:42.346841 2017] [ssl:error] [pid 12610] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:43.051251 2017] [ssl:error] [pid 10680] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:43.767406 2017] [ssl:error] [pid 12610] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:44.469032 2017] [ssl:error] [pid 9712] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:45.192023 2017] [ssl:error] [pid 9711] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Dec 23 16:15:45.887366 2017] [ssl:error] [pid 10763] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Jan 11 17:16:34.127409 2018] [:error] [pid 22984] [client 208.100.26.237:48512] script '/srv/www/help.cofc.edu/public_html/xmlrpc.php' not found or unable to stat, referer: https://help.cofc.edu/
+[Thu Jan 11 17:16:34.283182 2018] [:error] [pid 22940] [client 208.100.26.237:48697] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat, referer: https://help.cofc.edu/
+[Thu Jan 11 17:16:34.424930 2018] [:error] [pid 23478] [client 208.100.26.237:48809] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat, referer: https://help.cofc.edu/
+[Thu Jan 18 20:21:51.910829 2018] [:error] [pid 27331] [client 93.176.144.74:20817] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Fri Jan 19 10:03:28.374275 2018] [:error] [pid 6077] [client 94.98.240.231:30981] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Sat Jan 20 22:18:58.257118 2018] [:error] [pid 9219] [client 185.141.24.178:57616] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Thu Feb 22 16:36:59.899206 2018] [ssl:error] [pid 31348] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:00.608166 2018] [ssl:error] [pid 30296] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:01.311125 2018] [ssl:error] [pid 30781] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:02.823918 2018] [ssl:error] [pid 30902] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:03.537973 2018] [ssl:error] [pid 30296] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:04.267784 2018] [ssl:error] [pid 30902] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:04.948969 2018] [ssl:error] [pid 31453] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Thu Feb 22 16:37:05.630014 2018] [ssl:error] [pid 31200] AH02032: Hostname h provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Sat Mar 03 09:21:50.842940 2018] [:error] [pid 17220] [client 80.11.205.17:25100] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Sun Mar 04 08:22:35.807962 2018] [:error] [pid 8785] [client 91.200.12.9:65176] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Sat Mar 17 09:31:04.025764 2018] [:error] [pid 31722] [client 223.25.16.108:60376] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Mon Mar 19 22:52:55.931147 2018] [:error] [pid 3597] [client 67.198.90.206:59505] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Sat Apr 07 01:26:38.124004 2018] [:error] [pid 966] [client 181.20.216.171:61386] script '/srv/www/help.cofc.edu/public_html/wp-login.php' not found or unable to stat
+[Sat Apr 07 09:29:38.136080 2018] [ssl:error] [pid 22658] AH02032: Hostname :80 provided via SNI and hostname help.cofc.edu provided via HTTP are different
+[Tue Apr 17 13:21:16.008806 2018] [:error] [pid 30946] [client 153.9.5.57:24441] script '/srv/www/help.cofc.edu/public_html/index2.php' not found or unable to stat
